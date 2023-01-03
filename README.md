@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devraj5 (Dev Raj Bhattarai)
-- 👀 I’m interested in Next Generation Data Analysis and Machine learning models 
-- 🌱 I’m currently learning pipeline development, commandline automation, deep learning and biostatsitics   
-- 💞️ I’m looking to collaborate on genomic data analysis, Molecular dynamic simualtion, biomedical image analysis and bioinformatics
+- 👀 I’m interested in Genomic Data Analysis 
+- 🌱 I’m currently learning pipeline development, commandline automation and biostatsitics   
+- 💞️ I’m looking to collaborate on genomic data analysis and algorithm building
 - 📫 How to reach me Gmail - bhattarai.devraj10@gmail.com, Linkedin - https://www.linkedin.com/in/dev-raj-bhattarai-4b4123251
 
 <!---
