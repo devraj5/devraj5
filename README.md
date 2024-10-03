@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devraj5 (Dev Raj Bhattarai)
-- 👀 I’m interested in Disease Genomics particulary cancer genomics and pathogen genomics
-- 🌱 I’m currently learning pipeline development, systems biology, mathematical modelling and single cell sequncing data analysis  
+- 👀 I’m interested in Disease Genomics particulary Neurodegenrative Diseases
+- 🌱 I’m currently learning single cell long read sequncing data analysis  
 - 💞️ I’m looking to collaborate on genomic data analysis and algorithm building
 - 📫 How to reach me Gmail - bhattarai.devraj10@gmail.com, Linkedin - https://www.linkedin.com/in/dev-raj-bhattarai-4b4123251
 
